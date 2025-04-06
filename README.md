@@ -7,7 +7,7 @@
 I went to sourceforge.net and downloaded latest NSRL file. (this file is 1.7 GB, not the 1.3 GB as mentioned in the instructions)
 I imported the hash file to autopsy. Tools > Options > Hash Sets > Import Hash Set
 ## Exercise 1: Screeenshot
-[Imported Hash File](Mod4ex1ImportedHashFile.png)
+[Mod4ex1ImportedHashFile](https://github.com/user-attachments/assets/05ca47b2-6157-4b4f-9f33-294e2ba708da)
 Having a hash database in Autopsy is valuable because it allows an investigator to quickly search for known hashes, and then focus on the ones that do not match.
 
 ## Exercise 2: Autopsy - Create Hash Database (of Evidence files)
